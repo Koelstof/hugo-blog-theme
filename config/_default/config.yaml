@@ -65,7 +65,7 @@ related:
     - name: categories
       weight: 70
 # Your choice of color theme
-theme: minimal
+theme: apogee
 # Automatically change light/dark mode based on user's preference?
 day_night: true
 # Your choice of font
